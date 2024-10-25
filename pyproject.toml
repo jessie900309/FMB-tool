@@ -1,12 +1,7 @@
 [project]
-name = "python_project"
+name = "fmb_tools"
 version = "0.1.0"
-description = "A Python project"
+description = "Flower Magic Ball (花花魔法球) - 給媽咪的小工具儲藏櫃"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = [
-    "fastapi[all]>=0",
-    "numpy>=2",
-    "plotly>=5",
-    "polars>=1",
-]
+requires-python = ">=3.12"
+dependencies = []
